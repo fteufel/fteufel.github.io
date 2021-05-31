@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Felix Teufel"
-  avatar           : "profile.png"
+  avatar           : "profilepic.png"
   bio              : "Biotechnologist & ML Researcher"
   location         : "Basel, Switzerland"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/felixteufel/
+  linkedin         : "felixteufel/"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
