@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Find my complete CV here](https://github.com/fteufel/fteufel.github.io/blob/master/files/CVFteufel2021.pdf)
+
 Education
 ======
 * BSc in Food Science and Biotechnology, University of Natural Resources and Life Sciences Vienna, 2018
