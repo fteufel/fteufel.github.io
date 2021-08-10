@@ -2,7 +2,7 @@
 title: "SignalP 6.0 achieves signal peptide prediction across all types using protein language models"
 collection: publications
 permalink: /publication/signalp
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'SignalP 6.0, the first signal peptide predictor capable of predicting all known types of signal peptides in protein sequences. Available online at [webserver](https://services.healthtech.dtu.dk/service.php?SignalP-6.0)'
 date: 2021-06-10
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2021.06.09.447770v1'
