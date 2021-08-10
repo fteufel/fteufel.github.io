@@ -15,4 +15,4 @@ Publications
 =================
 
 
-<img src="images/bio-photo.png" width="200">
+<img src="../images/bio-photo.png" width="200">
