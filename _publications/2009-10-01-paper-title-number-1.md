@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "SignalP 6.0 achieves signal peptide prediction across all types using protein language models"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/signalp
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2021-06-10
+venue: 'bioRxiv'
+paperurl: 'https://www.biorxiv.org/content/10.1101/2021.06.09.447770v1'
+citation: 'F. Teufel, J.J.A. Armenteros, A.R. Johansen, M.H. Gíslason, S.I. Pihl, K.D. Tisirigos, O. Winther, S. Brunak, G.v. Heijne, H. Nielsen . (2021). &quot;SignalP 6.0 achieves signal peptide prediction across all types using protein language models.&quot; <i>bioRxiv 1</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+SignalP 6.0, the first signal peptide predictor capable of predicting all known types of signal peptides in protein sequences. Available online at [webserver](https://services.healthtech.dtu.dk/service.php?SignalP-6.0)
