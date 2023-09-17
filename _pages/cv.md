@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Find my complete CV here](https://github.com/fteufel/fteufel.github.io/blob/master/files/CVFteufel.pdf)
+[Find my complete CV here](https://github.com/fteufel/fteufel.github.io/blob/master/files/CVFteufel23.pdf)
 
