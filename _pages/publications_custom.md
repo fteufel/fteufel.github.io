@@ -11,26 +11,27 @@ You can find a full list of my publications on <u><a href="https://scholar.googl
 
 {% include base_path %}
 
-### [BEND: Benchmarking DNA Language Models on biologically meaningful tasks](https://arxiv.org/abs/2311.12570)
-<small>Frederikke Isa Marin*, <u>Felix Teufel*</u>, Marc Horlacher, Dennis Madsen, Dennis Pultz, Ole Winther, Wouter Boomsma</small>  
+[**BEND: Benchmarking DNA Language Models on biologically meaningful tasks**](https://arxiv.org/abs/2311.12570)  
 **ICLR, 2024**  
-We introduce BEND, a collection of prediction tasks for evaluating the performance of DNA LM representations.
+<small>Frederikke Isa Marin*, <u>Felix Teufel*</u>, Marc Horlacher, Dennis Madsen, Dennis Pultz, Ole Winther, Wouter Boomsma</small>  
 
+We introduce BEND, a collection of prediction tasks for evaluating the performance of DNA LM representations.  
 [Code on Github](https://github.com/frederikkemarin/BEND)  
 [Data](https://sid.erda.dk/cgi-sid/ls.py?share_id=aNQa0Oz2lY)  
 
-### [SecretoGen: towards prediction of signal peptides for efficient protein secretion](https://openreview.net/forum?id=vXXEfmYsvS)
-#### <u>Felix Teufel</u>, Carsten Stahlhut, Jan Refsgaard, Henrik Nielsen, Ole Winther, Dennis Madsen  
+[**SecretoGen: towards prediction of signal peptides for efficient protein secretion**]
+(https://openreview.net/forum?id=vXXEfmYsvS)  
 **GenBio Workshop at NeurIPS, 2023**  
-SecretoGen is a generative transformer that designs host- and protein-optimized signal peptides. We show that it can be used for ranking signal peptides sequences that have good secretion performance.
+<small> <u>Felix Teufel</u>, Carsten Stahlhut, Jan Refsgaard, Henrik Nielsen, Ole Winther, Dennis Madsen</small>  
 
+SecretoGen is a generative transformer that designs host- and protein-optimized signal peptides. We show that it can be used for ranking signal peptides sequences that have good secretion performance.  
 [Code on Github](https://github.com/fteufel/SecretoGen)
 
-### [GraphPart: homology partitioning for biological sequence analysis](https://academic.oup.com/nargab/article/5/4/lqad088/7318077)
-#### <u>Felix Teufel</u>, Magnús Halldór Gíslason, José Juan Almagro Armenteros, Alexander Rosenberg Johansen, Ole Winther, Henrik Nielsen  
+[**GraphPart: homology partitioning for biological sequence analysis**](https://academic.oup.com/nargab/article/5/4/lqad088/7318077)   
 **NAR Genomics and Bioinformatics, 2023**  
-We introduce GraphPart, an algorithm for homology partitioning of biological sequence datasets for machine learning.
+<small> <u>Felix Teufel</u>, Magnús Halldór Gíslason, José Juan Almagro Armenteros, Alexander Rosenberg Johansen, Ole Winther, Henrik Nielsen</small>  
 
+We introduce GraphPart, an algorithm for homology partitioning of biological sequence datasets for machine learning.  
 [Code on Github](https://github.com/graph-part/graph-part)  
 [Python package](https://pypi.org/project/graph-part/)
 
