@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Felix Teufel"
   avatar           : "profilepic.png"
-  bio              : "ML Researcher & Biotechnologist"
+  # bio              : "ML Researcher & Biotechnologist"
   location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : 
