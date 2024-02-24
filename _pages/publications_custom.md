@@ -18,7 +18,7 @@ You can find a full list of my publications on <a href="https://scholar.google.c
 [**BEND: Benchmarking DNA Language Models on biologically meaningful tasks**](https://arxiv.org/abs/2311.12570)  
 <small><b>ICLR, 2024</b></small>  
 <small>Frederikke Isa Marin*, <u>Felix Teufel*</u>, Marc Horlacher, Dennis Madsen, Dennis Pultz, Ole Winther, Wouter Boomsma</small>  
-We introduce BEND, a collection of prediction tasks for evaluating the performance of DNA LM representations over a range of length scales. 
+We introduce BEND, a collection of prediction tasks for evaluating the performance of DNA LM representations over a range of length scales.  
 [Code on Github](https://github.com/frederikkemarin/BEND)  
 [Data](https://sid.erda.dk/cgi-sid/ls.py?share_id=aNQa0Oz2lY) 
 
@@ -28,7 +28,7 @@ We introduce BEND, a collection of prediction tasks for evaluating the performan
 [**SecretoGen: towards prediction of signal peptides for efficient protein secretion**](https://openreview.net/forum?id=vXXEfmYsvS)  
 <small><b>GenBio Workshop at NeurIPS, 2023</b></small>  
 <small> <u>Felix Teufel</u>, Carsten Stahlhut, Jan Refsgaard, Henrik Nielsen, Ole Winther, Dennis Madsen</small>  
-SecretoGen is a generative transformer that designs host- and protein-optimized signal peptides. We show that it can be used for ranking signal peptides sequences that have good secretion performance.  
+SecretoGen is a generative transformer that designs host- and protein-optimized signal peptides. We show that it can be used for ranking signal peptide sequences that have good secretion performance.  
 [Code on Github](https://github.com/fteufel/SecretoGen)
 
 <img src="https://fteufel.github.io/images/publications/signalp6.png" style="float:right;width:400px;">
