@@ -14,11 +14,10 @@ You can find a full list of my publications on <a href="https://scholar.google.c
 # Representation learning on DNA
 
 
-
+<img src="https://fteufel.github.io/images/publications/bend_dna_cut.png" style="float:right;width:400px;">
 [**BEND: Benchmarking DNA Language Models on biologically meaningful tasks**](https://arxiv.org/abs/2311.12570)  
 <small><b>ICLR, 2024</b></small>  
 <small>Frederikke Isa Marin*, <u>Felix Teufel*</u>, Marc Horlacher, Dennis Madsen, Dennis Pultz, Ole Winther, Wouter Boomsma</small>  
-<img src="https://fteufel.github.io/images/publications/bend_dna_cut.png" style="float:right;width:400px;">
 We introduce BEND, a collection of prediction tasks for evaluating the performance of DNA LM representations.  
 [Code on Github](https://github.com/frederikkemarin/BEND)  
 [Data](https://sid.erda.dk/cgi-sid/ls.py?share_id=aNQa0Oz2lY) 
