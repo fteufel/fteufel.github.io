@@ -11,12 +11,16 @@ You can find a full list of my publications on <a href="https://scholar.google.c
 
 {% include base_path %}
 
+# Representation learning on DNA
+
 [**BEND: Benchmarking DNA Language Models on biologically meaningful tasks**](https://arxiv.org/abs/2311.12570)  
 <small><b>ICLR, 2024</b></small>  
 <small>Frederikke Isa Marin*, <u>Felix Teufel*</u>, Marc Horlacher, Dennis Madsen, Dennis Pultz, Ole Winther, Wouter Boomsma</small>  
 We introduce BEND, a collection of prediction tasks for evaluating the performance of DNA LM representations.  
 [Code on Github](https://github.com/frederikkemarin/BEND)  
-[Data](https://sid.erda.dk/cgi-sid/ls.py?share_id=aNQa0Oz2lY)  
+[Data](https://sid.erda.dk/cgi-sid/ls.py?share_id=aNQa0Oz2lY) 
+
+# Protein sorting and location prediction
 
 [**SecretoGen: towards prediction of signal peptides for efficient protein secretion**](https://openreview.net/forum?id=vXXEfmYsvS)  
 <small><b>GenBio Workshop at NeurIPS, 2023</b></small>  
@@ -24,12 +28,23 @@ We introduce BEND, a collection of prediction tasks for evaluating the performan
 SecretoGen is a generative transformer that designs host- and protein-optimized signal peptides. We show that it can be used for ranking signal peptides sequences that have good secretion performance.  
 [Code on Github](https://github.com/fteufel/SecretoGen)
 
+**[SignalP 6.0 predicts all five types of signal peptides using protein language models](https://www.nature.com/articles/s41587-021-01156-3)**  
+<small><b>Nature Biotechnology, 2022</b></small>  
+<small><u>Felix Teufel</u>, Jose Juan Almagro Armenteros, Alexander Rosenberg Johansen,  Magnús Halldór Gíslason, Silas Irby Pihl, Konstantinos D. Tsirigos, Ole Winther, Søren Brunak, Gunnar von Heijne and Henrik Nielsen</small>  
+We used protein language models to build SignalP 6.0, the first signal peptide predictor capable of predicting all known types of signal peptides in protein sequences.  
+[Available online at DTU Health Tech](https://services.healthtech.dtu.dk/service.php?SignalP-6.0)  
+[Code on Github](https://github.com/fteufel/signalp-6.0) 
+
+
+
 [**GraphPart: homology partitioning for biological sequence analysis**](https://academic.oup.com/nargab/article/5/4/lqad088/7318077)   
 <small><b>NAR Genomics and Bioinformatics, 2023</b></small>    
 <small> <u>Felix Teufel</u>, Magnús Halldór Gíslason, José Juan Almagro Armenteros, Alexander Rosenberg Johansen, Ole Winther, Henrik Nielsen</small>  
 We introduce GraphPart, an algorithm for homology partitioning of biological sequence datasets for machine learning.  
 [Code on Github](https://github.com/graph-part/graph-part)  
 [Python package](https://pypi.org/project/graph-part/)
+
+# Bioactive peptide discovery
 
 [**DeepPeptide predicts cleaved peptides in proteins using conditional random fields**](https://doi.org/10.1093/bioinformatics/btad616)  
 <small><b>Bioinformatics, 2023</b></small>  
@@ -51,11 +66,4 @@ We combined AlphaFold-Multimer with DeepTMHMM as a peptide receptor deorphanizat
 Disovering bioactive peptides in large-scale peptidomics data from their mass spectrometry signal.  
 [Code on Github](https://github.com/jancr/ppv) 
 
-
-**[SignalP 6.0 predicts all five types of signal peptides using protein language models](https://www.nature.com/articles/s41587-021-01156-3)**  
-<small><b>Nature Biotechnology, 2022</b></small>  
-<small><u>Felix Teufel</u>, Jose Juan Almagro Armenteros, Alexander Rosenberg Johansen,  Magnús Halldór Gíslason, Silas Irby Pihl, Konstantinos D. Tsirigos, Ole Winther, Søren Brunak, Gunnar von Heijne and Henrik Nielsen</small>  
-We used protein language models to build SignalP 6.0, the first signal peptide predictor capable of predicting all known types of signal peptides in protein sequences.  
-[Available online at DTU Health Tech](https://services.healthtech.dtu.dk/service.php?SignalP-6.0)  
-[Code on Github](https://github.com/fteufel/signalp-6.0) 
 
