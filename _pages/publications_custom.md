@@ -18,7 +18,7 @@ You can find a full list of my publications on <a href="https://scholar.google.c
 [**BEND: Benchmarking DNA Language Models on biologically meaningful tasks**](https://arxiv.org/abs/2311.12570)  
 <small><b>ICLR, 2024</b></small>  
 <small>Frederikke Isa Marin*, <u>Felix Teufel*</u>, Marc Horlacher, Dennis Madsen, Dennis Pultz, Ole Winther, Wouter Boomsma</small>  
-We introduce BEND, a collection of prediction tasks for evaluating the performance of DNA LM representations.  
+We introduce BEND, a collection of prediction tasks for evaluating the performance of DNA LM representations over a range of length scales. 
 [Code on Github](https://github.com/frederikkemarin/BEND)  
 [Data](https://sid.erda.dk/cgi-sid/ls.py?share_id=aNQa0Oz2lY) 
 
@@ -50,7 +50,7 @@ We introduce GraphPart, an algorithm for homology partitioning of biological seq
 
 # Bioactive peptide discovery
 
-<img src="https://fteufel.github.io/images/publications/deeppeptide.png" style="float:right;width:400px;">
+<img src="https://fteufel.github.io/images/publications/deeppeptide.png" style="float:right;width:300px;">
 [**DeepPeptide predicts cleaved peptides in proteins using conditional random fields**](https://doi.org/10.1093/bioinformatics/btad616)  
 <small><b>Bioinformatics, 2023</b></small>  
 <small><u>Felix Teufel</u>, Jan C. Refsgaard, Christian T. Madsen, Carsten Stahlhut, Mads Grønborg, Ole Winther, Dennis Madsen</small>  
