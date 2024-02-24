@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find a full list of my publications on <u><a href="https://scholar.google.com/citations?hl=en&user=pO3M3xYAAAAJ">my Google Scholar profile</a>.</u>
+You can find a full list of my publications on <a href="https://scholar.google.com/citations?hl=en&user=pO3M3xYAAAAJ">my Google Scholar profile</a>.
 
 <small>\* = equal contribution.</small>
 
@@ -19,7 +19,7 @@ We introduce BEND, a collection of prediction tasks for evaluating the performan
 [Data](https://sid.erda.dk/cgi-sid/ls.py?share_id=aNQa0Oz2lY)  
 
 [**SecretoGen: towards prediction of signal peptides for efficient protein secretion**](https://openreview.net/forum?id=vXXEfmYsvS)  
-<b><small>GenBio Workshop at NeurIPS, 2023</b></small>  
+<small><b>GenBio Workshop at NeurIPS, 2023</b></small>  
 <small> <u>Felix Teufel</u>, Carsten Stahlhut, Jan Refsgaard, Henrik Nielsen, Ole Winther, Dennis Madsen</small>  
 SecretoGen is a generative transformer that designs host- and protein-optimized signal peptides. We show that it can be used for ranking signal peptides sequences that have good secretion performance.  
 [Code on Github](https://github.com/fteufel/SecretoGen)
