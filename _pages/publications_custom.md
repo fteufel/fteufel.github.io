@@ -12,7 +12,7 @@ You can find a full list of my publications on <u><a href="https://scholar.googl
 {% include base_path %}
 
 ### [BEND: Benchmarking DNA Language Models on biologically meaningful tasks](https://arxiv.org/abs/2311.12570)
-#### Frederikke Isa Marin*, <u>Felix Teufel*</u>, Marc Horlacher, Dennis Madsen, Dennis Pultz, Ole Winther, Wouter Boomsma  
+<small>Frederikke Isa Marin*, <u>Felix Teufel*</u>, Marc Horlacher, Dennis Madsen, Dennis Pultz, Ole Winther, Wouter Boomsma</small>  
 **ICLR, 2024**  
 We introduce BEND, a collection of prediction tasks for evaluating the performance of DNA LM representations.
 
