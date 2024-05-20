@@ -37,7 +37,8 @@ SecretoGen is a generative transformer that designs host- and protein-optimized 
 <small><u>Felix Teufel</u>, Jose Juan Almagro Armenteros, Alexander Rosenberg Johansen,  Magnús Halldór Gíslason, Silas Irby Pihl, Konstantinos D. Tsirigos, Ole Winther, Søren Brunak, Gunnar von Heijne and Henrik Nielsen</small>  
 We used protein language models to build SignalP 6.0, the first signal peptide predictor capable of predicting all known types of signal peptides in protein sequences.  
 [Available online at DTU Health Tech](https://services.healthtech.dtu.dk/service.php?SignalP-6.0)  
-[Code on Github](https://github.com/fteufel/signalp-6.0) 
+[Code on Github](https://github.com/fteufel/signalp-6.0)
+[Blog post](https://portal.valencelabs.com/blogs/post/benchmarking-dna-language-models-with-bend-jUET5WOJxb5xW6I)
 
 
 <img src="https://fteufel.github.io/images/publications/graphpart.jpeg" style="float:right;width:400px;">
@@ -53,7 +54,7 @@ We introduce GraphPart, an algorithm for homology partitioning of biological seq
 <small><b>Nucleic Acids Research, 2024</b></small>    
 <small> Marius Thrane Ødum, <u>Felix Teufel</u>, Vineet Thumuluri, José Juan Almagro Armenteros, Alexander Rosenberg Johansen, Ole Winther, Henrik Nielsen</small>  
 DeepLoc 2.1 predicts protein subcellular locations and membrane protein types in eukaryotes.  
-[Available online at DTU Health Tech](https://github.com/graph-part/graph-part)  
+[Available online at DTU Health Tech](https://services.healthtech.dtu.dk/services/DeepLoc-2.1/)  
 
 # Bioactive peptide discovery
 
@@ -76,7 +77,7 @@ We combined AlphaFold-Multimer with DeepTMHMM as a peptide receptor deorphanizat
 [**Combining mass spectrometry and machine learning to discover bioactive peptides**](https://www.nature.com/articles/s41467-022-34031-z)  
 <small><b>Nature Communications, 2022</b></small>  
 <small>Christian T. Madsen, Jan C. Refsgaard, <u>Felix Teufel</u>, Sonny K. Kjærulff, Zhe Wang, Guangjun Meng, Carsten Jessen, Petteri Heljo, Qunfeng Jiang, Xin Zhao, Bo Wu, Xueping Zhou, Yang Tang, Jacob F. Jeppesen, Christian D. Kelstrup, Stephen T. Buckley, Søren Tullin, Jan Nygaard-Jensen, Xiaoli Chen, Fang Zhang, Jesper V. Olsen, Dan Han, Mads Grønborg & Ulrik de Lichtenberg</small>  
-Disovering bioactive peptides in large-scale peptidomics data from their mass spectrometry signal.  
+Discovering bioactive peptides in large-scale peptidomics data from their mass spectrometry signal.  
 [Code on Github](https://github.com/jancr/ppv) 
 
 
