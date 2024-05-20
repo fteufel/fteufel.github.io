@@ -48,7 +48,7 @@ We introduce GraphPart, an algorithm for homology partitioning of biological seq
 [Code on Github](https://github.com/graph-part/graph-part)  
 [Python package](https://pypi.org/project/graph-part/)
 
-<img src="https://fteufel.github.io/images/publications/deeploc21.jpeg" style="float:right;width:400px;">
+<img src="https://fteufel.github.io/images/publications/deeploc21.png" style="float:right;width:400px;">
 [**DeepLoc 2.1: multi-label membrane protein type prediction using protein language models**](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae237/7642068)   
 <small><b>Nucleic Acids Research, 2024</b></small>    
 <small> Marius Thrane Ødum, <u>Felix Teufel</u>, Vineet Thumuluri, José Juan Almagro Armenteros, Alexander Rosenberg Johansen, Ole Winther, Henrik Nielsen</small>  
