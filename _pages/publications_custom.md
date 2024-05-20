@@ -20,7 +20,9 @@ You can find a full list of my publications on <a href="https://scholar.google.c
 <small>Frederikke Isa Marin*, <u>Felix Teufel*</u>, Marc Horlacher, Dennis Madsen, Dennis Pultz, Ole Winther, Wouter Boomsma</small>  
 We introduce BEND, a collection of prediction tasks for evaluating the performance of DNA LM representations over a range of length scales.  
 [Code on Github](https://github.com/frederikkemarin/BEND)  
-[Data](https://sid.erda.dk/cgi-sid/ls.py?share_id=aNQa0Oz2lY) 
+[Data](https://sid.erda.dk/cgi-sid/ls.py?share_id=aNQa0Oz2lY)  
+[Blog post](https://portal.valencelabs.com/blogs/post/benchmarking-dna-language-models-with-bend-jUET5WOJxb5xW6I)  
+
 
 # Protein sorting and location prediction
 
@@ -37,8 +39,8 @@ SecretoGen is a generative transformer that designs host- and protein-optimized 
 <small><u>Felix Teufel</u>, Jose Juan Almagro Armenteros, Alexander Rosenberg Johansen,  Magnús Halldór Gíslason, Silas Irby Pihl, Konstantinos D. Tsirigos, Ole Winther, Søren Brunak, Gunnar von Heijne and Henrik Nielsen</small>  
 We used protein language models to build SignalP 6.0, the first signal peptide predictor capable of predicting all known types of signal peptides in protein sequences.  
 [Available online at DTU Health Tech](https://services.healthtech.dtu.dk/service.php?SignalP-6.0)  
-[Code on Github](https://github.com/fteufel/signalp-6.0)
-[Blog post](https://portal.valencelabs.com/blogs/post/benchmarking-dna-language-models-with-bend-jUET5WOJxb5xW6I)
+[Code on Github](https://github.com/fteufel/signalp-6.0)  
+[Blog post](https://communities.springernature.com/posts/signalp-6-0-predicts-all-five-types-of-signal-peptides-using-protein-language-models)  
 
 
 <img src="https://fteufel.github.io/images/publications/graphpart.jpeg" style="float:right;width:400px;">
