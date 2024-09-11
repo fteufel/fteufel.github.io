@@ -58,6 +58,16 @@ We introduce GraphPart, an algorithm for homology partitioning of biological seq
 DeepLoc 2.1 predicts protein subcellular locations and membrane protein types in eukaryotes.  
 [Available online at DTU Health Tech](https://services.healthtech.dtu.dk/services/DeepLoc-2.1/)  
 
+# Bayesian optimization
+
+<img src="https://fteufel.github.io/images/publications/beebo.png" style="float:right;width:300px;">
+[**Batched Energy-Entropy acquisition for Bayesian Optimization**](https://github.com/novonordisk-research/BEE-BO/blob/main/manuscript.pdf)
+<small><b>ML4LMS Workshop @ ICML, 2024</b></small>    
+<small> <u>Felix Teufel</u>, Carstel Stahlhut, Jesper Ferkinghoff-Borg</small>  
+A statistical physics inspired acquisition function for Bayesian optimization with Gaussian processes that natively scales to batch acquisition mode.  
+[Code on Github](https://github.com/novonordisk-research/BEE-BO)  
+[Python package](https://pypi.org/project/beebo/)  
+
 # Bioactive peptide discovery
 
 <img src="https://fteufel.github.io/images/publications/deeppeptide.png" style="float:right;width:300px;">
