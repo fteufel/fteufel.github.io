@@ -60,7 +60,7 @@ DeepLoc 2.1 predicts protein subcellular locations and membrane protein types in
 
 # Bayesian optimization
 
-<img src="https://fteufel.github.io/images/publications/beebo.png" style="float:right;width:300px;">
+<img src="https://fteufel.github.io/images/publications/beebo.png" style="float:right;width:200px;">
 [**Batched Energy-Entropy acquisition for Bayesian Optimization**](https://github.com/novonordisk-research/BEE-BO/blob/main/manuscript.pdf)
 <small><b>ML4LMS Workshop @ ICML, 2024</b></small>    
 <small> <u>Felix Teufel</u>, Carstel Stahlhut, Jesper Ferkinghoff-Borg</small>  
