@@ -61,8 +61,8 @@ DeepLoc 2.1 predicts protein subcellular locations and membrane protein types in
 # Bayesian optimization
 
 <img src="https://fteufel.github.io/images/publications/beebo.png" style="float:right;width:230px;">
-[**Batched Energy-Entropy acquisition for Bayesian Optimization**](https://github.com/novonordisk-research/BEE-BO/blob/main/manuscript.pdf)  
-<small><b>ML4LMS Workshop @ ICML, 2024</b></small>    
+[**Batched Energy-Entropy acquisition for Bayesian Optimization**](https://arxiv.org/abs/2410.08804)  
+<small><b>NeurIPS 2024</b></small>    
 <small> <u>Felix Teufel</u>, Carsten Stahlhut, Jesper Ferkinghoff-Borg</small>  
 A statistical physics inspired acquisition function for Bayesian optimization with Gaussian processes that natively scales to batch acquisition mode. Enables UCB-like control of the exploration-exploitation trade-off at larger batch sizes.  
 [Code on Github](https://github.com/novonordisk-research/BEE-BO)  
