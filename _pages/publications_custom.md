@@ -11,6 +11,16 @@ You can find a full list of my publications on <a href="https://scholar.google.c
 
 {% include base_path %}
 
+# Bayesian optimization
+
+<img src="https://fteufel.github.io/images/publications/beebo.png" style="float:right;width:230px;">
+[**Batched Energy-Entropy acquisition for Bayesian Optimization**](https://arxiv.org/abs/2410.08804)  
+<small><b>NeurIPS 2024</b></small>    
+<small> <u>Felix Teufel</u>, Carsten Stahlhut, Jesper Ferkinghoff-Borg</small>  
+A statistical physics inspired acquisition function for Bayesian optimization with Gaussian processes that natively scales to batch acquisition mode. Enables UCB-like control of the exploration-exploitation trade-off at larger batch sizes.  
+[Code on Github](https://github.com/novonordisk-research/BEE-BO)  
+[Python package](https://pypi.org/project/beebo/)  
+
 # Representation learning on DNA
 
 
@@ -58,15 +68,7 @@ We introduce GraphPart, an algorithm for homology partitioning of biological seq
 DeepLoc 2.1 predicts protein subcellular locations and membrane protein types in eukaryotes.  
 [Available online at DTU Health Tech](https://services.healthtech.dtu.dk/services/DeepLoc-2.1/)  
 
-# Bayesian optimization
 
-<img src="https://fteufel.github.io/images/publications/beebo.png" style="float:right;width:230px;">
-[**Batched Energy-Entropy acquisition for Bayesian Optimization**](https://arxiv.org/abs/2410.08804)  
-<small><b>NeurIPS 2024</b></small>    
-<small> <u>Felix Teufel</u>, Carsten Stahlhut, Jesper Ferkinghoff-Borg</small>  
-A statistical physics inspired acquisition function for Bayesian optimization with Gaussian processes that natively scales to batch acquisition mode. Enables UCB-like control of the exploration-exploitation trade-off at larger batch sizes.  
-[Code on Github](https://github.com/novonordisk-research/BEE-BO)  
-[Python package](https://pypi.org/project/beebo/)  
 
 # Bioactive peptide discovery
 
